@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" creator="SYS-GPS - https://www.syride.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<name></name>
+	<desc>Flight recorder by SYS-GPS 1120143542</desc>
+	<time>2018-06-06T18:58:08Z</time>
+	<trk>
+		<trkseg>
+		<trkpt lat="53.343044" lon="-1.798748">
+			<ele>380</ele>
+			<time>2018-06-06T18:58:09Z</time>
+		</trkpt>
+		<trkpt lat="53.343052" lon="-1.798746">
+			<ele>380</ele>
+			<time>2018-06-06T18:58:10Z</time>
+		</trkpt>
+		<trkpt lat="53.343048" lon="-1.798749">
+			<ele>380</ele>
+			<time>2018-06-06T18:58:11Z</time>
+		</trkpt>
+		<trkpt lat="53.343052" lon="-1.798759">
+			<ele>380</ele>
+			<time>2018-06-06T18:58:12Z</time>
+		</trkpt>
+		<trkpt lat="53.343052" lon="-1.798772">
+			<ele>381</ele>
+			<time>2018-06-06T18:58:13Z</time>
+		</trkpt>
+		<trkpt lat="53.343056" lon="-1.798782">
+			<ele>381</ele>
+			<time>2018-06-06T18:58:14Z</time>
+		</trkpt>
+		<trkpt lat="53.343056" lon="-1.798794">
+			<ele>381</ele>
+			<time>2018-06-06T18:58:15Z</time>
+		</trkpt>
+		<trkpt lat="53.343060" lon="-1.798807">
+			<ele>381</ele>
+			<time>2018-06-06T18:58:16Z</time>
+		</trkpt>
+		<trkpt lat="53.343060" lon="-1.798814">
+			<ele>382</ele>
+			<time>2018-06-06T18:58:17Z</time>
+		</trkpt>
+		<trkpt lat="53.343060" lon="-1.798823">
+			<ele>382</ele>
+			<time>2018-06-06T18:58:18Z</time>
+		</trkpt>
+		<trkpt lat="53.343056" lon="-1.798836">
+			<ele>382</ele>
+			<time>2018-06-06T18:58:19Z</time>
+		</trkpt>
+		<trkpt lat="53.343052" lon="-1.798852">
+			<ele>382</ele>
+			<time>2018-06-06T18:58:20Z</time>
+		</trkpt>
+		<trkpt lat="53.343048" lon="-1.798864">
+			<ele>382</ele>
+			<time>2018-06-06T18:58:21Z</time>
+		</trkpt>
+		<trkpt lat="53.343040" lon="-1.798870">
+			<ele>382</ele>
+			<time>2018-06-06T18:58:22Z</time>
+		</trkpt>
+		<trkpt lat="53.343029" lon="-1.798865">
+			<ele>383</ele>
+			<time>2018-06-06T18:58:23Z</time>
+		</trkpt>
+		<trkpt lat="53.343025" lon="-1.798859">
+			<ele>382</ele>
+			<time>2018-06-06T18:58:24Z</time>
+		</trkpt>
+		<trkpt lat="53.343018" lon="-1.798854">
+			<ele>382</ele>
+			<time>2018-06-06T18:58:25Z</time>
+		</trkpt>
+		<trkpt lat="53.343018" lon="-1.798851">
+			<ele>382</ele>
+			<time>2018-06-06T18:58:26Z</time>
+		</trkpt>
+		<trkpt lat="53.343018" lon="-1.798851">
+			<ele>382</ele>
+			<time>2018-06-06T18:58:27Z</time>
+		</trkpt>
+		<trkpt lat="53.343018" lon="-1.798848">
+			<ele>382</ele>
+			<time>2018-06-06T18:58:28Z</time>
+		</trkpt>
+		<trkpt lat="53.343014" lon="-1.798846">
+			<ele>382</ele>
+			<time>2018-06-06T18:58:29Z</time>
+		</trkpt>
+		<trkpt lat="53.343014" lon="-1.798845">
+			<ele>383</ele>
+			<time>2018-06-06T18:58:30Z</time>
+		</trkpt>
+		<trkpt lat="53.343010" lon="-1.798846">
+			<ele>382</ele>
+			<time>2018-06-06T18:58:31Z</time>
+		</trkpt>
+		<trkpt lat="53.343010" lon="-1.798846">
+			<ele>383</ele>
+			<time>2018-06-06T18:58:32Z</time>
+		</trkpt>
+		<trkpt lat="53.343010" lon="-1.798848">
+			<ele>383</ele>
+			<time>2018-06-06T18:58:33Z</time>
+		</trkpt>
+		<trkpt lat="53.343010" lon="-1.798848">
+			<ele>383</ele>
+			<time>2018-06-06T18:58:34Z</time>
+		</trkpt>
+		<trkpt lat="53.343006" lon="-1.798848">
+			<ele>383</ele>
+			<time>2018-06-06T18:58:35Z</time>
+		</trkpt>
+		<trkpt lat="53.343010" lon="-1.798848">
+			<ele>383</ele>
+			<time>2018-06-06T18:58:36Z</time>
+		</trkpt>
+		<trkpt lat="53.343010" lon="-1.798849">
+			<ele>383</ele>
+			<time>2018-06-06T18:58:37Z</time>
+		</trkpt>
+		<trkpt lat="53.343014" lon="-1.798851">
+			<ele>383</ele>
+			<time>2018-06-06T18:58:38Z</time>
+		</trkpt>
+		<trkpt lat="53.343010" lon="-1.798861">
+			<ele>383</ele>
+			<time>2018-06-06T18:58:39Z</time>
+		</trkpt>
+		<trkpt lat="53.343018" lon="-1.798865">
+			<ele>383</ele>
+			<time>2018-06-06T18:58:40Z</time>
+		</trkpt>
+		<trkpt lat="53.343021" lon="-1.798865">
+			<ele>383</ele>
+			<time>2018-06-06T18:58:41Z</time>
+		</trkpt>
+		<trkpt lat="53.343021" lon="-1.798865">
+			<ele>383</ele>
+			<time>2018-06-06T18:58:42Z</time>
+		</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
