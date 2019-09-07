@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" creator="SYS-GPS - https://www.syride.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<name></name>
+	<desc>Flight recorder by SYS-GPS 1120143542</desc>
+	<time>2019-09-07T12:06:02Z</time>
+	<trk>
+		<trkseg>
+		<trkpt lat="53.079365" lon="-2.106961">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:03Z</time>
+		</trkpt>
+		<trkpt lat="53.079514" lon="-2.106571">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:04Z</time>
+		</trkpt>
+		<trkpt lat="53.079605" lon="-2.106394">
+			<ele>129</ele>
+			<time>2019-09-07T12:06:05Z</time>
+		</trkpt>
+		<trkpt lat="53.079700" lon="-2.106223">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:06Z</time>
+		</trkpt>
+		<trkpt lat="53.079800" lon="-2.106056">
+			<ele>129</ele>
+			<time>2019-09-07T12:06:07Z</time>
+		</trkpt>
+		<trkpt lat="53.079800" lon="-2.106056">
+			<ele>129</ele>
+			<time>2019-09-07T12:06:08Z</time>
+		</trkpt>
+		<trkpt lat="53.079899" lon="-2.105897">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:09Z</time>
+		</trkpt>
+		<trkpt lat="53.080006" lon="-2.105733">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:10Z</time>
+		</trkpt>
+		<trkpt lat="53.080116" lon="-2.105574">
+			<ele>130</ele>
+			<time>2019-09-07T12:06:11Z</time>
+		</trkpt>
+		<trkpt lat="53.080360" lon="-2.105273">
+			<ele>133</ele>
+			<time>2019-09-07T12:06:12Z</time>
+		</trkpt>
+		<trkpt lat="53.080490" lon="-2.105130">
+			<ele>132</ele>
+			<time>2019-09-07T12:06:13Z</time>
+		</trkpt>
+		<trkpt lat="53.080608" lon="-2.104976">
+			<ele>133</ele>
+			<time>2019-09-07T12:06:14Z</time>
+		</trkpt>
+		<trkpt lat="53.080730" lon="-2.104824">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:15Z</time>
+		</trkpt>
+		<trkpt lat="53.080730" lon="-2.104824">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:16Z</time>
+		</trkpt>
+		<trkpt lat="53.080959" lon="-2.104525">
+			<ele>129</ele>
+			<time>2019-09-07T12:06:17Z</time>
+		</trkpt>
+		<trkpt lat="53.081078" lon="-2.104374">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:18Z</time>
+		</trkpt>
+		<trkpt lat="53.081200" lon="-2.104224">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:19Z</time>
+		</trkpt>
+		<trkpt lat="53.081318" lon="-2.104074">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:20Z</time>
+		</trkpt>
+		<trkpt lat="53.081440" lon="-2.103919">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:21Z</time>
+		</trkpt>
+		<trkpt lat="53.081562" lon="-2.103763">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:22Z</time>
+		</trkpt>
+		<trkpt lat="53.081688" lon="-2.103607">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:23Z</time>
+		</trkpt>
+		<trkpt lat="53.081814" lon="-2.103447">
+			<ele>129</ele>
+			<time>2019-09-07T12:06:24Z</time>
+		</trkpt>
+		<trkpt lat="53.081947" lon="-2.103298">
+			<ele>129</ele>
+			<time>2019-09-07T12:06:25Z</time>
+		</trkpt>
+		<trkpt lat="53.082069" lon="-2.103142">
+			<ele>129</ele>
+			<time>2019-09-07T12:06:26Z</time>
+		</trkpt>
+		<trkpt lat="53.082188" lon="-2.102984">
+			<ele>129</ele>
+			<time>2019-09-07T12:06:27Z</time>
+		</trkpt>
+		<trkpt lat="53.082317" lon="-2.102829">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:28Z</time>
+		</trkpt>
+		<trkpt lat="53.082451" lon="-2.102672">
+			<ele>128</ele>
+			<time>2019-09-07T12:06:29Z</time>
+		</trkpt>
+		<trkpt lat="53.082577" lon="-2.102506">
+			<ele>127</ele>
+			<time>2019-09-07T12:06:30Z</time>
+		</trkpt>
+		<trkpt lat="53.082703" lon="-2.102345">
+			<ele>127</ele>
+			<time>2019-09-07T12:06:31Z</time>
+		</trkpt>
+		<trkpt lat="53.082825" lon="-2.102187">
+			<ele>127</ele>
+			<time>2019-09-07T12:06:32Z</time>
+		</trkpt>
+		<trkpt lat="53.082947" lon="-2.102027">
+			<ele>127</ele>
+			<time>2019-09-07T12:06:33Z</time>
+		</trkpt>
+		<trkpt lat="53.083069" lon="-2.101864">
+			<ele>126</ele>
+			<time>2019-09-07T12:06:34Z</time>
+		</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
