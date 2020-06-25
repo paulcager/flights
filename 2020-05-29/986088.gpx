@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" creator="Syride - https://www.syride.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<name>Paul Cager
+</name>
+	<desc>Flight recorder by Syride </desc>
+	<time>2020-05-28T17:22:55Z</time>
+	<trk>
+		<trkseg>
+		<trkpt lat="53.345833" lon="-1.820983">
+			<ele>482</ele>
+			<time>2020-05-28T17:22:55Z</time>
+		</trkpt>
+		<trkpt lat="53.345800" lon="-1.820917">
+			<ele>482</ele>
+			<time>2020-05-28T17:22:56Z</time>
+		</trkpt>
+		<trkpt lat="53.345767" lon="-1.820850">
+			<ele>483</ele>
+			<time>2020-05-28T17:22:57Z</time>
+		</trkpt>
+		<trkpt lat="53.345733" lon="-1.820783">
+			<ele>483</ele>
+			<time>2020-05-28T17:22:58Z</time>
+		</trkpt>
+		<trkpt lat="53.345750" lon="-1.820767">
+			<ele>482</ele>
+			<time>2020-05-28T17:22:59Z</time>
+		</trkpt>
+		<trkpt lat="53.345750" lon="-1.820717">
+			<ele>482</ele>
+			<time>2020-05-28T17:23:00Z</time>
+		</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

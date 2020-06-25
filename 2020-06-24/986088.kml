@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Flight of Paul Cager
+ recorded with Syride </name>
+	<Style id="redline">
+	<LineStyle><color>7f0000FF</color><width>6</width></LineStyle>
+	</Style>
+	<Placemark>
+	<styleUrl>#redline</styleUrl>
+	<LineString>
+	<altitudeMode>absolute</altitudeMode>
+	<coordinates>
+-1.820983,53.345833,482
+-1.820917,53.345800,482
+-1.820850,53.345767,483
+-1.820783,53.345733,483
+-1.820767,53.345750,482
+-1.820717,53.345750,482
+	</coordinates></LineString></Placemark>
+</Document></kml>
