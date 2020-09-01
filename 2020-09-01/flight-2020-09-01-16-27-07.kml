@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Flight of  recorded by SYS-GPS 1120143542</name>
+	<Style id="redline">
+	<LineStyle><color>7f0000FF</color><width>6</width></LineStyle>
+	</Style>
+	<Placemark>
+	<styleUrl>#redline</styleUrl>
+	<LineString>
+	<altitudeMode>absolute</altitudeMode>
+	<coordinates>
+-1.836081,53.345650,505
+-1.836082,53.345642,516
+-1.836077,53.345631,523
+-1.836090,53.345646,524
+-1.836093,53.345654,525
+-1.836074,53.345627,527
+-1.836074,53.345631,527
+-1.836085,53.345654,527
+-1.836086,53.345654,527
+-1.836076,53.345638,528
+-1.836077,53.345634,530
+-1.836079,53.345638,530
+-1.836080,53.345646,530
+-1.836080,53.345650,530
+-1.836084,53.345657,530
+-1.836085,53.345661,530
+-1.836086,53.345661,530
+-1.836087,53.345661,530
+-1.836088,53.345665,530
+-1.836090,53.345669,530
+	</coordinates></LineString></Placemark>
+</Document></kml>

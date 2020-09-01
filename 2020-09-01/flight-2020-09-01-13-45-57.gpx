@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" creator="SYS-GPS - https://www.syride.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<name></name>
+	<desc>Flight recorder by SYS-GPS 1120143542</desc>
+	<time>2020-09-01T12:45:57Z</time>
+	<trk>
+		<trkseg>
+		<trkpt lat="53.345810" lon="-1.835634">
+			<ele>534</ele>
+			<time>2020-09-01T12:45:58Z</time>
+		</trkpt>
+		<trkpt lat="53.345818" lon="-1.835640">
+			<ele>534</ele>
+			<time>2020-09-01T12:45:59Z</time>
+		</trkpt>
+		<trkpt lat="53.345825" lon="-1.835642">
+			<ele>534</ele>
+			<time>2020-09-01T12:46:00Z</time>
+		</trkpt>
+		<trkpt lat="53.345825" lon="-1.835650">
+			<ele>534</ele>
+			<time>2020-09-01T12:46:01Z</time>
+		</trkpt>
+		<trkpt lat="53.345821" lon="-1.835657">
+			<ele>534</ele>
+			<time>2020-09-01T12:46:02Z</time>
+		</trkpt>
+		<trkpt lat="53.345818" lon="-1.835659">
+			<ele>534</ele>
+			<time>2020-09-01T12:46:03Z</time>
+		</trkpt>
+		<trkpt lat="53.345818" lon="-1.835659">
+			<ele>534</ele>
+			<time>2020-09-01T12:46:04Z</time>
+		</trkpt>
+		<trkpt lat="53.345818" lon="-1.835660">
+			<ele>534</ele>
+			<time>2020-09-01T12:46:05Z</time>
+		</trkpt>
+		<trkpt lat="53.345818" lon="-1.835660">
+			<ele>534</ele>
+			<time>2020-09-01T12:46:06Z</time>
+		</trkpt>
+		<trkpt lat="53.345818" lon="-1.835661">
+			<ele>534</ele>
+			<time>2020-09-01T12:46:07Z</time>
+		</trkpt>
+		<trkpt lat="53.345818" lon="-1.835662">
+			<ele>534</ele>
+			<time>2020-09-01T12:46:08Z</time>
+		</trkpt>
+		<trkpt lat="53.345818" lon="-1.835661">
+			<ele>534</ele>
+			<time>2020-09-01T12:46:09Z</time>
+		</trkpt>
+		<trkpt lat="53.345821" lon="-1.835656">
+			<ele>534</ele>
+			<time>2020-09-01T12:46:10Z</time>
+		</trkpt>
+		<trkpt lat="53.345821" lon="-1.835653">
+			<ele>534</ele>
+			<time>2020-09-01T12:46:11Z</time>
+		</trkpt>
+		<trkpt lat="53.345821" lon="-1.835656">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:12Z</time>
+		</trkpt>
+		<trkpt lat="53.345825" lon="-1.835657">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:13Z</time>
+		</trkpt>
+		<trkpt lat="53.345825" lon="-1.835654">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:14Z</time>
+		</trkpt>
+		<trkpt lat="53.345825" lon="-1.835654">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:15Z</time>
+		</trkpt>
+		<trkpt lat="53.345825" lon="-1.835657">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:16Z</time>
+		</trkpt>
+		<trkpt lat="53.345825" lon="-1.835659">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:17Z</time>
+		</trkpt>
+		<trkpt lat="53.345821" lon="-1.835664">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:18Z</time>
+		</trkpt>
+		<trkpt lat="53.345818" lon="-1.835666">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:19Z</time>
+		</trkpt>
+		<trkpt lat="53.345821" lon="-1.835668">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:20Z</time>
+		</trkpt>
+		<trkpt lat="53.345829" lon="-1.835677">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:21Z</time>
+		</trkpt>
+		<trkpt lat="53.345829" lon="-1.835677">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:22Z</time>
+		</trkpt>
+		<trkpt lat="53.345829" lon="-1.835678">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:23Z</time>
+		</trkpt>
+		<trkpt lat="53.345829" lon="-1.835678">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:24Z</time>
+		</trkpt>
+		<trkpt lat="53.345829" lon="-1.835679">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:25Z</time>
+		</trkpt>
+		<trkpt lat="53.345829" lon="-1.835679">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:26Z</time>
+		</trkpt>
+		<trkpt lat="53.345833" lon="-1.835679">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:27Z</time>
+		</trkpt>
+		<trkpt lat="53.345833" lon="-1.835679">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:28Z</time>
+		</trkpt>
+		<trkpt lat="53.345833" lon="-1.835680">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:29Z</time>
+		</trkpt>
+		<trkpt lat="53.345833" lon="-1.835681">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:30Z</time>
+		</trkpt>
+		<trkpt lat="53.345833" lon="-1.835681">
+			<ele>535</ele>
+			<time>2020-09-01T12:46:31Z</time>
+		</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
